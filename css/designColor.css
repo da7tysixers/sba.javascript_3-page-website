@@ -1,0 +1,13 @@
+.navbar .collapse .navbar-nav .nav-item .nav-link ::before {
+    border-top: 4px solid #2196f3;
+    border-left: 4px solid #2196f3;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link ::after {
+    border-bottom: 4px solid #2196f3;
+    border-right: 4px solid #2196f3;
+}
+
+.mybtn {
+    background-color: #2196f3;
+}
